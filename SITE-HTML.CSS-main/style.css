@@ -1,4 +1,12 @@
-header {
-    color: white;
+body {
+  background: #000C4D1A;
+}
+  .memorial {  
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
   }
-
+  
