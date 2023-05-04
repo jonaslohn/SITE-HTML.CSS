@@ -1,0 +1,35 @@
+body {
+  background: #0023636b;
+}
+
+  .memorial {  
+  position: absolute;
+  width: 681px;
+  height: 176px;
+  left: 379px;
+  top: 302px;
+
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
+  }
+
+  .introduçao {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: fixed;
+    width: 411px;
+    height: 84px;
+    left: 90%;
+    top: 0px;
+    
+  }
+  header {
+    display: flex;
+  }
